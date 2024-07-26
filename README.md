@@ -4,3 +4,5 @@
 
 :calling: **연락처**   
 SSAFY : Mattermost 김세희[광주_3반]
+
+1일1알고 도전중
