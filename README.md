@@ -9,10 +9,11 @@
 ---
 
 ## 🛠️ 기술 스택
-
 - **알고리즘:**  
   ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bubbledd)](https://solved.ac/bubbledd/)
 
 - **프로젝트 개발:**  
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -22,7 +23,14 @@
 - **게임 엔진:**  
   ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity&logoColor=black)
 
+
+[![Top Langs](https://github-readme-bubbley.vercel.app/api/top-langs/?username=Bubbley-dev&layout=compact&hide=java,jupyter%20notebook)](https://github.com/Bubbley-dev)
+
 ---
-<a href="https://github.com/Bubbley-dev"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bubbley-dev&layout=compact&theme=nord&hide_border=true" /></a>
-![Bubbley's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bubbley-dev&show_icons=true&theme=radical)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bubbledd)](https://solved.ac/bubbledd/)
+**Github Log**
+
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Bubbley-dev&theme=cobalt"/></a>
+
+[![Bubbley's GitHub stats](https://github-readme-bubbley.vercel.app/api?username=Bubbley-dev)](https://github.com/Bubbley-dev)
+
