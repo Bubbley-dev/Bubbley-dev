@@ -23,8 +23,10 @@
 - **게임 엔진:**  
   ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity&logoColor=black)
 
+
 [![Top Langs](https://github-readme-bubbley.vercel.app/api/top-langs/?username=Bubbley-dev&layout=compact&hide=java,jupyter%20notebook)](https://github.com/Bubbley-dev)
----
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Bubbley-dev&theme=cobalt"/></a>
+
 [![Bubbley's GitHub stats](https://github-readme-bubbley.vercel.app/api?username=Bubbley-dev)](https://github.com/Bubbley-dev)
+
